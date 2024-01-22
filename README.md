@@ -1,14 +1,7 @@
-# programming-languages
-A repository for projects built in Programming Languages
-## William Hutto
-Programming Languages, *Spring 2024*
+# Ruby Assignment
 
-### Languages I currently program with
-- Python
-- Java
-- C#
+## Author
+William Bruce Hutto
 
-### Languages I want to learn
-- Ruby
-- Kotlin
-- Javascript
+## Issues Encountered
+- None
