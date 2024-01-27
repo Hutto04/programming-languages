@@ -1,4 +1,4 @@
-# Project 2b
+# Project 2b - Six Little Words in Ruby
 
 ## Author
 William Bruce Hutto
@@ -13,4 +13,8 @@ William Bruce Hutto
 
     1. Runtime checking
     2. The ability to omit parenthesis in method calls is odd
-    3. The use of both single quotes and double quotes for strings is a little weird 
+    3. The use of both single quotes and double quotes for strings is a little weird
+
+## My Most Important Reference
+
+    <https://www.geeksforgeeks.org/object-oriented-programming-in-ruby-set-1>
