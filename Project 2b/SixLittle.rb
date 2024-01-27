@@ -13,6 +13,7 @@ class SixLittle
   attr_accessor :words, :hints, :tokens
 
   # Initializes a new instance of the class.
+  # https://www.geeksforgeeks.org/the-initialize-method-in-ruby/
   def initialize
     @words = []
     @hints = []
@@ -26,6 +27,7 @@ class SixLittle
     6.times do
       begin
         print "Enter a word (min 4 letters): "
+        # https://www.geeksforgeeks.org/ruby-string-chomp-method/?ref=ml_lbp
         word = gets.chomp
       end until word.length >= 4
       print "Enter a hint for '#{word}': "
@@ -46,13 +48,18 @@ class SixLittle
       @tokens << word[0...mid].upcase
       @tokens << word[mid..-1].upcase
     end
+    # https://www.geeksforgeeks.org/ruby-array-shuffle-function/?ref=ml_lbp
     @tokens.shuffle!
   end
 
   # Displays the Six Little Words game in the console.
+  
+  
   def display
     puts "\nSix Little Words (Ruby)"
     puts "\nPartial Words:"
+    # https://www.geeksforgeeks.org/ruby-array-slice-function/?ref=header_search
+    # https://rubydoc.info/stdlib/core/Enumerable:each_slice
     @tokens.each_slice(4) { |slice| puts slice.join(" ") }
     puts "\nHints:"
     @hints.each { |hint| puts hint }
