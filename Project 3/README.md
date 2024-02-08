@@ -7,4 +7,8 @@ William Bruce Hutto
 - Installation Issues
 - Lack of Documentation
 
+## Step3 Run
+
+![alt text](image.png)
+
 
