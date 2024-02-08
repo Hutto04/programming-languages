@@ -7,6 +7,9 @@ William Bruce Hutto
 - Installation Issues
 - Lack of Documentation
 
+## Citiations
+- https://iolanguage.org/
+
 ## Step3 Run
 
 ![alt text](image.png)
