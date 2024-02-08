@@ -4,6 +4,7 @@
 William Bruce Hutto
 
 ## Issues Encountered
-- None
+- Installation Issues
+- Lack of Documentation
 
 
