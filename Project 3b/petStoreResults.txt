@@ -1,0 +1,160 @@
+Day and time at store 1 0800
+Bob the Manager arrives.
+Bob the Manager opens the store.
+Whiskers the cat meows.
+Shadow the cat meows.
+Oliver the cat meows.
+Rex the dog barks.
+Buddy the dog barks.
+Max the dog barks.
+
+Day and time at store 1 0900
+Alice the Clerk feeds the animals.
+Whiskers the cat eats.
+Shadow the cat eats.
+Oliver the cat eats.
+Rex the dog eats.
+Buddy the dog eats.
+Max the dog eats.
+
+Day and time at store 1 1100
+Alice the Clerk plays with the animals.
+Whiskers the cat plays.
+Shadow the cat plays.
+Oliver the cat plays.
+Rex the dog plays.
+Buddy the dog plays.
+Max the dog plays.
+
+Day and time at store 1 1200
+Bob the Manager takes lunch.
+
+Day and time at store 1 1300
+Alice the Clerk takes lunch.
+
+Day and time at store 1 1600
+Alice the Clerk sells Rex the dog
+Added new animal: Bailey the dog
+
+Day and time at store 1 1700
+Alice the Clerk leaves.
+
+Day and time at store 1 1800
+Bob the Manager closes the store
+Whiskers the cat sleeps.
+Shadow the cat sleeps.
+Oliver the cat sleeps.
+Buddy the dog sleeps.
+Max the dog sleeps.
+Bailey the dog sleeps.
+Bob the Manager leaves.
+
+
+
+Day and time at store 2 0800
+Bob the Manager arrives.
+Bob the Manager opens the store.
+Whiskers the cat meows.
+Shadow the cat meows.
+Oliver the cat meows.
+Buddy the dog barks.
+Max the dog barks.
+Bailey the dog barks.
+
+Day and time at store 2 0900
+Alice the Clerk feeds the animals.
+Whiskers the cat eats.
+Shadow the cat eats.
+Oliver the cat eats.
+Buddy the dog eats.
+Max the dog eats.
+Bailey the dog eats.
+
+Day and time at store 2 1100
+Alice the Clerk plays with the animals.
+Whiskers the cat plays.
+Shadow the cat plays.
+Oliver the cat plays.
+Buddy the dog plays.
+Max the dog plays.
+Bailey the dog plays.
+
+Day and time at store 2 1200
+Bob the Manager takes lunch.
+
+Day and time at store 2 1300
+Alice the Clerk takes lunch.
+
+Day and time at store 2 1600
+Alice the Clerk sells Shadow the cat
+Added new animal: Mittens the cat
+Alice the Clerk sells Bailey the dog
+Added new animal: Molly the dog
+
+Day and time at store 2 1700
+Alice the Clerk leaves.
+
+Day and time at store 2 1800
+Bob the Manager closes the store
+Whiskers the cat sleeps.
+Oliver the cat sleeps.
+Buddy the dog sleeps.
+Max the dog sleeps.
+Mittens the cat sleeps.
+Molly the dog sleeps.
+Bob the Manager leaves.
+
+
+
+Day and time at store 3 0800
+Bob the Manager arrives.
+Bob the Manager opens the store.
+Whiskers the cat meows.
+Oliver the cat meows.
+Buddy the dog barks.
+Max the dog barks.
+Mittens the cat meows.
+Molly the dog barks.
+
+Day and time at store 3 0900
+Alice the Clerk feeds the animals.
+Whiskers the cat eats.
+Oliver the cat eats.
+Buddy the dog eats.
+Max the dog eats.
+Mittens the cat eats.
+Molly the dog eats.
+
+Day and time at store 3 1100
+Alice the Clerk plays with the animals.
+Whiskers the cat plays.
+Oliver the cat plays.
+Buddy the dog plays.
+Max the dog plays.
+Mittens the cat plays.
+Molly the dog plays.
+
+Day and time at store 3 1200
+Bob the Manager takes lunch.
+
+Day and time at store 3 1300
+Alice the Clerk takes lunch.
+
+Day and time at store 3 1600
+Alice the Clerk sells Whiskers the cat
+Added new animal: Bella the cat
+Alice the Clerk sells Buddy the dog
+Added new animal: Sadie the dog
+
+Day and time at store 3 1700
+Alice the Clerk leaves.
+
+Day and time at store 3 1800
+Bob the Manager closes the store
+Oliver the cat sleeps.
+Max the dog sleeps.
+Mittens the cat sleeps.
+Molly the dog sleeps.
+Bella the cat sleeps.
+Sadie the dog sleeps.
+Bob the Manager leaves.
