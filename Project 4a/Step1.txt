@@ -1,0 +1,4 @@
+Name = williamhutto,
+SortedChars = [a, h, i, i, l, l, m, o, t, t, u, w],
+ReversedName = ottuhmailliw,
+ReverseSortedName = wuttomlliiha.
