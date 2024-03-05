@@ -25,7 +25,6 @@ guess_number(Secret, Attempts) :-
         guess_number(Secret, Attempts1) % Recursive call with updated attempts.
     ).
 
-% Note: This code is for educational purposes and demonstrates basic Prolog syntax and logic programming.
 % URLs for citations:
-% - SWI-Prolog documentation: https://www.swi-prolog.org/pldoc/doc_for?object=section(%27packages/plunit.html%27)
+% - SWI-Prolog documentation: https://www.swi-prolog.org
 % - Prolog Tutorial for Beginners: https://www.learnprolognow.org/
