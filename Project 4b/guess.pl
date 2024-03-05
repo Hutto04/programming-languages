@@ -2,6 +2,9 @@
 % This Prolog program asks the user to guess a randomly selected number between 1 and 20.
 % It provides feedback on whether the guess is too low, too high, or correct.
 % The game ends when the correct number is guessed, and it reports the number of attempts.
+% Author: William Hutto
+% date: 2024-03-01
+
 
 :- use_module(library(random)). % Importing library for generating random numbers.
 
