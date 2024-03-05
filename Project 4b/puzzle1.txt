@@ -1,0 +1,5 @@
+Joanne's imaginary friend is a moose. Their adventure involved a circus.
+Lou's imaginary friend is a grizzly bear. Their adventure involved a train.
+Ralph's imaginary friend is a seal. Their adventure involved a rockband.
+Winnie's imaginary friend is a zebra. Their adventure involved a spaceship.
+true .

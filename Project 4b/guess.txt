@@ -1,0 +1,17 @@
+2 ?- start.
+Guess the number between 1 and 20.
+|: 8.
+Too low. Try again.
+|: 10.
+Too low. Try again.
+|: 13.
+Too low. Try again.
+|: 15.
+Too low. Try again.
+|: 18.
+Too high. Try again.
+|: 16.
+Too low. Try again.
+|: 17.
+Correct! The number was 17. Total guesses: 7.
+true.
