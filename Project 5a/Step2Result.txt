@@ -1,0 +1,42 @@
+Enter word #1 (at least 4 characters): 
+hello
+Enter a hint for word #1:
+greeting
+Enter word #2 (at least 4 characters):
+Jesus
+Enter a hint for word #2:
+Lord and Savior
+Enter word #3 (at least 4 characters):
+Jump
+Enter a hint for word #3:
+action
+Enter word #4 (at least 4 characters):
+sleep 
+Enter a hint for word #4:
+done in bed
+Enter word #5 (at least 4 characters):
+teacher
+Enter a hint for word #5:
+occupation
+Enter word #6 (at least 4 characters):
+breakfast
+Enter a hint for word #6:
+first meal of day
+
+Six Little Words (Scala)
+Partial Words:
+HE      MP      CHER    BREA
+SL      JU      JE      TEA
+KFAST   SUS     LLO     EEP
+
+HINTS:
+1. greeting
+2. Lord and Savior
+3. action
+4. done in bed
+5. occupation
+6. first meal of day
+
+ANSWER KEY:
+hello   Jesus   Jump
+sleep   teacher breakfast

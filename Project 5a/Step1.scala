@@ -1,3 +1,16 @@
+/* 
+* Scala Exploration: Step 1
+* Define a class called Person with a string attribute for the name
+* Create an instance of Person
+* Set that instance's name to your first and last name.
+* Display your name from the object
+* Sort and display your name’s characters in alphabetical order
+* Reverse and display your name
+* Sort and display your name in reverse alphabetical order
+* Author: William Hutto
+* Date: 3/13/2024
+* Class: Programming Languages
+ */
 
 // Define a class called Person with a string attribute for the name
 class Person(var name: String)
