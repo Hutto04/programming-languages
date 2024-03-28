@@ -26,8 +26,6 @@ abstract class Animal(val name: String) {
     def makeNoise(): Unit // Abstract method in Animal 
 }
 
-
-
  //An abstract class representing a Feline.
 abstract class Feline(name: String) extends Animal(name) {
    
