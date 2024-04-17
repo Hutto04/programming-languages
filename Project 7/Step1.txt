@@ -1,0 +1,30 @@
+;; Assigning strings to variables
+
+;; Print First Name
+(def FirstName "william")
+(println FirstName)
+william
+
+;; Print Last Name
+(def LastName "hutto")
+(println LastName)
+hutto
+
+;; Concatenating FirstName and LastName, removing spaces
+(def Name (clojure.string/replace (str FirstName LastName) " " ""))
+
+;; Displaying Name's characters in alphabetical order
+(println (apply str (sort Name)))
+ahiillmottuw
+
+;; Reversing and displaying Name
+(println (apply str (reverse Name)))
+ottuhmailliw
+
+;; Displaying Name in reverse alphabetical order correctly
+;; Using a comparator to ensure characters are compared properly
+(println (apply str (sort (fn [a b] (> (int a) (int b))) Name)))
+wuttomlliiha
+
+;; Citations
+;; https://clojuredocs.org/clojure.string

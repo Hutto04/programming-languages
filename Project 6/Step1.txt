@@ -1,0 +1,21 @@
+1> FirstName = "William".
+"William"
+2> LastName = "Hutto".
+"Hutto"
+3> Name = string:join([FirstName, LastName], "").
+"WilliamHutto"
+4> SortedName = lists:sort(Name).
+"HWaiillmottu"
+5> io:format("Sorted Name: ~s~n", [SortedName]).
+Sorted Name: HWaiillmottu
+ok
+6> ReversedName = lists:reverse(Name).
+"ottuHmailliW"
+7> io:format("Reversed Name: ~s~n", [ReversedName]).
+8>Reversed Name: ottuHmailliW
+ok
+9> ReverseSortedName = lists:reverse(lists:sort(Name)).
+"uttomlliiaWH"
+10> io:format("Reverse Sorted Name: ~s~n", [ReverseSortedName]).
+Reverse Sorted Name: uttomlliiaWH
+ok

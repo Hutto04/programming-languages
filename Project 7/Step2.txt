@@ -1,0 +1,20 @@
+GHCi, version 9.4.8: https://www.haskell.org/ghc/  :? for help
+ghci> let firstName = "william"
+ghci> print (firstName)
+"william"
+ghci> let lastName = "hutto"
+ghci> print (lastName)
+"hutto"
+ghci> -- Concatenating firstName and lastName, removing blank characters (not needed here as there are no spaces in our)
+ghci> let name = firstName ++ lastName
+ghci> -- Sorting and displaying Name's characters in alphabetical order
+ghci> import Data.List (sort)
+ghci> print (sort name)
+"ahiillmottuw"
+ghci> -- Reversing and displaying Name
+ghci> print (reverse name)
+"ottuhmailliw"
+ghci> -- Sorting and displaying Name in reverse alphabetical order
+ghci> print (reverse (sort name))
+"wuttomlliiha"
+ghci> -- Citations -- Learn You a Haskell (http://learnyouahaskell.com/chapters)
