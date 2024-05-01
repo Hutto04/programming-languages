@@ -13,7 +13,7 @@
 - Bootstrap (for responsive design)
 
 
-## Future additions ##
+## Future additions ##:
 
 - PHP (for form handling) 
 
@@ -70,3 +70,7 @@ project-root/
 ## JavaScript CDN:
 
 - We used the CDN.jsdelivr link to include JavaScript libraries.
+
+## Our Project Presentation Video YouTube Link:
+
+https://www.youtube.com/watch?v=pLMG3EmfDzQ
