@@ -58,6 +58,10 @@ project-root/
 - Ensured responsiveness across different devices using Bootstrap.
 - Finalized project documentation and README.md file.
 
+## Issues Encountered:
+
+- The only issues we encountered were just the spatial learning curve of determining how things shouuld be layed out on each page
+
 ## Next Steps:
 
 - Conduct user testing and gather feedback for improvements.
@@ -71,6 +75,6 @@ project-root/
 
 - We used the CDN.jsdelivr link to include JavaScript libraries.
 
-## Our Project Presentation Video YouTube Link:
+## Our Project Presentation Video Link:
 
 https://www.youtube.com/watch?v=pLMG3EmfDzQ
